@@ -1,0 +1,21 @@
+{
+    "token":"NzMwODQyNTMwNTQ3MTA1Nzkz.XwdYJQ.fiPs-b4WDcECNtQdJ2dEiGZSwYw",
+    "prefix":"^",
+    "NNID": "",
+    "graczID": "854419791758098462",
+    "iconServerURL" : "https://cdn.discordapp.com/attachments/834457020529770517/857339857877860372/Comp_1_4.gif",
+    "serverName" : "! Pat︱Patolandia",
+    "statusReadyDescribe" : "",
+    "statusExceptDescribe": "Bot By Pat | ^pomoc",
+    "reactionMessageID": "855057598452989953",
+    "propozycjaChannelID": "855056683142742016",
+    "bladChannelID": "",
+    "warnAdministrationList": ["836862866413322251"],
+    "warnChannel": "855055473048420382",
+    "warnRoleID1": "855054502125502524",
+    "warnRoleID2": "855054509628850186",
+    "warnRoleID3": "855054560011354113",
+    "joinMessageChannelID": "854432484187570225",
+    "serverDiscordID": "832227947817336872",
+    "embedMsgPermissionRolesID":["836862866413322251"]
+}
